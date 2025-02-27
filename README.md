@@ -1,10 +1,10 @@
 # JAVA
 
-컴파일 및 실행과정
+## 컴파일 및 실행과정
 
 
 
-{% file src=".gitbook/assets/이미지 2025. 2. 27. 오후 11.10.jpg" %}
+<figure><img src=".gitbook/assets/이미지 2025. 2. 27. 오후 11.10.jpg" alt=""><figcaption></figcaption></figure>
 
 1. 자바 소스 코드 작성: 개발자가 Hello.java 와 같은 자바 소스 코드를 작성
 2. 컴파일 수행: 자바가 제공하는 javac 프로그램을 사용하여 소스 코드를 컴파일
