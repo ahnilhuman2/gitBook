@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page123](README.md)
+* [Page](README.md)
