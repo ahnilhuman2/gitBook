@@ -5,3 +5,4 @@
 * [메서드 분리 원칙](undefined.md)
 * [JAVA record 클래스](java-record.md)
 * [JVM 가비지 컬렉션](jvm-1.md)
+* [동기(Synchronous) vs. 비동기(Asynchronous) 그리고 Redis 정리](synchronous-vs.-asynchronous-redis.md)
